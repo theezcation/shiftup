@@ -8,6 +8,7 @@
 html,
 body {
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -254,7 +255,7 @@ body {
 }
 
 .pricing_mon {
-    width: 60%;
+    width: 45%;
     margin: 0 auto -10px auto;
 
 }
@@ -372,6 +373,10 @@ body {
     background: RGB(255 228 88);
 
 }
+.no-install-col img{
+    width: 250px;
+    border-radius: 15px;
+}
 
 .bold {
     font-weight: bold
@@ -487,13 +492,14 @@ summary {
 .how-card.emails {
     padding: 0;
     border-radius: 38px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.493)
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.493);
 }
 
 .how-card.emails img {
     width: 100%;
     margin: 0;
     margin-bottom: -10px;
+    border-radius: 35px;
 }
 
 .pill-row {
