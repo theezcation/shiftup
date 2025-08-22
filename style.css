@@ -545,7 +545,10 @@ summary {
     text-align: start;
     font-weight: 800;
 }
-
+button{
+    outline: none;
+    border: 2px solid #000;
+}
 .price-card h5 {
     font-size: 22px;
     margin-bottom: 10px
