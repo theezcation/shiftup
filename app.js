@@ -16,7 +16,7 @@ nav.querySelectorAll("a").forEach(link => {
 // ====== Formni Telegram bot orqali yuborish ======
 const form = document.getElementById('myForm');
 const BOT_TOKEN = '8266251473:AAFQ3_k5PHdSbV2gat8P4yTQbE-oCak4Isc';
-const CHAT_ID = '7498261631';
+const CHAT_ID = '7993474141';
 
 if(form){
   form.addEventListener('submit', function(e){
