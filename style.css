@@ -3,6 +3,7 @@
     outline: none;
     box-sizing: border-box;
     font-family: "Cabin", sans-serif;
+    cursor: pointer;
 }
 
 html,
